@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+}
+#mycrousel{
+    background-color: chocolate;
+}
+#mycarousel img{
+    height: 300px;
+    margin-top: 35px;
+    
+}
+.carousel-inner p{
+    margin-bottom: 15px;
+    margin-top: 15px;
+ 
+    font-size: 15px;
+}
+body{
+    background-color: aqua;
+}
+.trees{
+    width="500";
+    height="500";
+}
